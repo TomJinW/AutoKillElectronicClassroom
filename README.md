@@ -1,0 +1,2 @@
+# AutoKillElectronicClassroom
+屏蔽各类电子教室软件的工具
